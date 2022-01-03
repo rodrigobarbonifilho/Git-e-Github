@@ -1,2 +1,3 @@
 O que é Github:
-    
+      Github é um local para você guardar código, um repositório remoto. Mas além disso ele é também uma plataforma social de programadores onde podemos interagir com outros
+    programadores, resolver issues (problemas), armazenar projetos entre outros.

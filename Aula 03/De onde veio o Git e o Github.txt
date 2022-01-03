@@ -1,0 +1,74 @@
+Quem veio primeiro:
+    VCS's e suas evoluções: 
+        1985:
+            CVS (Concurrent Version System | Sistema de Versões Concurrentes):
+                • Centralizado;
+                • Open Source;
+                • Mais Popular;
+                • Alguns Problemas;
+        2000:
+            SVN (Subversion):
+                • Centralizado;
+                • Open Source;
+                • Ativo até hoje;
+                • CVS-like;
+        2000:
+            BitKeeper (Criador - Larry McKvoy): 
+                • Distribuído;
+                • Proprietário;
+                • Versão comunidade;
+                • CVS-free;
+        2004: 
+            Em 2004 um dos caras relacionados ao softaware livre, o Andrew Tridgell criou um programa para a comunidade do Linux usar, o SourcePuller
+            SourcePuller:
+                • Engenharia Reversa;
+                • Recursos destravados;
+              Onde o Andrew utilizou da Engenharia Reversa para descobrir uma forma de ter recursos pagos do BitKeeper de graça, tipo um Crack. o McKvoy não gostou disso e 
+            acabou brigando com o Andrew.
+        2005:
+            BitKeeper - Nova Licença:
+                • Cancelava acesso a várias outras funções;
+                • Cancelava acesso a metadados;
+                • Deixou a parte do Versionamento apenas para a versão comercial;
+              Então o Linus Torvalds (criado do Linux que usava o BitKeeper na época) ficou zangado pois ele usava a versão de comunidade, pois seu código era open-source. 
+            Pois lá foi ele conversar com o McKvoy, e o McKvoy disse que se a pessoa quisesse mesmo ter as outras funções ela teria que pagar, Linus então falou: "Você não vai deixar eu usar, eu mesmo irei criar o meu BitKeeper!". E assim nasceu o Git.
+        2005:
+            Git:
+                • Distribuído;
+                • Open Source;
+                • Feito em 10 dias;
+                • Performance;
+    
+    Mas... O que quer dizer "Git"? Então quem não melhor para responder essa pergunta se não o seu próprio desenvolvedor? Foi peguntando ao Linus várias vezes "Mas o que quer dizer 'Git'?" e ele sempre dava uma resposta diferente:
+        Git é:
+            1ª Resposta:
+                • Três letras do Alfabeto.
+                • Palavra pronuciável.
+                • Não é uma usada por nenhum sistema UnixLite.
+                • É um comando pequeno e fácil de se usar.
+            2ª Resposta:
+                • Git e uma giria na inglaterra que significa: teimoso, cabeça dura, pensa que sempre está certo e que escolheu essa giria por que ela o define muito bem.
+            3ª Resposta:
+                Em dias bons Git pode ser: Global information tracker.
+            4ª Resposta:
+                Em dias ruins ele pode ser: Goddamn idiotic truckload of sh#t.
+
+E o Github? Foi o Linus Torvalds que o criou? Não! Vamos ver sua trajetória até aqui:
+    2008:
+        Github: Foi criado por 4 amigos desenvolvedores (Tom Preston-Werner, Chris Wanstrath, P.J. Hyett, Scott Chacon)
+            • Proprietário;
+            • Hospedagem de Código;
+            • Baseado em Git;
+            • 2009: 46k repositórios;
+            • 2010: 100k users / 1M repositórios;
+            • 2011: ULtrapassou SourceForge;
+            • 2013: 3M users / 5M repositórios;
+            • 2016: 14° lugar na lsita da Forbes;
+            • 2018: maior ataque de DDoS da história;
+    2018:
+        • Adquiridos pela Microsoft;
+        • US$ 7.5 BILHÔES;
+        • Operação independente;
+        • 2020: GitHub compra a npm;
+
+E esse mascote esquisito? Esse na verdade é o Octocat: é um carinha com cabeça de gato e pernas de polvo; que foi criado pelo mesmo criador do mascote do twitter o Larry Bird. E os caras do GitHub viram o desenbo, gostarame e compraram a arte para usar, depois de negociar a licença com o criador.
