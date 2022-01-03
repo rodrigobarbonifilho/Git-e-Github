@@ -1,0 +1,20 @@
+Para que Serve Git e Github?
+    Primeiramente Git ≠ Github
+    Git:
+        O Git é um VSC (Softaware de Controle de Versão), então podemos nos referir ao Git como uma ferramenta de Versionamento de Código.
+        Exemplo de Versionamento:
+              Vamos supor que alguém lhe pediu para criar um site simples, então você vai lá cria a sua pasta para poder organizar os arquivos de uma forma melhor, e dentro 
+            dessa pasta faremos todo o código restante e quando chegarmos num resultado estável do site, onde o cliente está satisfeito com o resultado, iremos pegar a pasta "site-cliente" e iremos compactar ela num arquivo .zip, .rar, etc. Agora que compactamos ela temos salvo uma versão estável do projeto caso façamos alguma alteração da qual não gostamos, temos a opção de voltar para aquele "versão" estável. Então mais algum tempo depois melhorando o site criamos uma feature muito boa e iremos salvá-la; então repetimos o processo de, compactar e renomar para "site-cliente-v2.zip" e continuaremos a fazer assim para todas as outras futuras versões do nosso site. E então para termos segurança de que não iremos perder o arquivo zip guardamos ele num serviço de armazenamento em nuvem. Mas se formos parar para pensar, se continuarmos assim ficará uma zona o armazenamento dos arquivos, e uma situação pior ainda agora, e se estivermos trabalhando em equipe e cada pessoa gerar o seu zip e jogar nesse serviço de nuvem, ai sim teriamos uma GRANDE ZONA. Então para resolver todos esses nossos problemas usamos VCS (Version Control Software ou Software de Controle de Versão).
+
+        Versionamento:
+              O primeiro VCS que se tem noticiado foi criado em 1972. Basicamente esse Versionamento de 72 era feito por uma pessoa que ia lá enviava sua pasta para um 
+            repositório central que ficava num servidor e esse servidor era responsável por perceber as diferenças de código e organizar eles e podia ter várias pessoas cada uma enviando a sua pasta com a sua versão e o servidor fazia o serviço de Versionamento; este tipo de versionamento e chamda de Versionamento centralizado/linear.
+              Com o tempo ele foi evoluindo... Evoluindo... E evoluindo... Até que chegamos no Versionamento Distribuído, onde cada pessoa de uma equipe faz a sua parte e dessa 
+            vez elas não commitam direto no repositório central, mas sim num repositório local e nesse repositório local é feito um versionamento e depois para essas pessoas poderem juntar suas versoes no repositório remoto, desta vez não é central e sim remoto, é feito um push, que é pegar o versinamento local feito pelo VCS e jogar no repositório remoto.
+
+        Principais Vantagens:
+            • Controle de Histórico;
+            • Trabalho em Equipe;
+            • Ramificação;
+            • Segurança;
+            • Organização;
